@@ -1,0 +1,595 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.4.17)  8 JAN 2024 22:46
+entering extended mode
+**./Dania.tex
+(Dania.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18>
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cl
+s
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.s
+ty
+Package: babel 2021/04/07 3.57 The Babel package
+
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.d
+ef
+File: babel.def 2021/04/07 3.57 Babel common definitions
+\babel@savecnt=\count187
+\U@D=\dimen139
+\l@babelnohyphens=\language79
+
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabe
+l.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count188
+
+*************************************
+* Local config file bblopts.cfg used
+*
+
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.c
+fg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\s
+panish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+\es@quottoks=\toks15
+\es@quotdepth=\count189
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.s
+ty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geomet
+ry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval
+.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.
+sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.s
+ty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count190
+\Gm@cntv=\count191
+\c@Gm@tempcnt=\count192
+\Gm@bindingoffset=\dimen140
+\Gm@wd@mp=\dimen141
+\Gm@odd@mp=\dimen142
+\Gm@even@mp=\dimen143
+\Gm@layoutwidth=\dimen144
+\Gm@layoutheight=\dimen145
+\Gm@layouthoffset=\dimen146
+\Gm@layoutvoffset=\dimen147
+\Gm@dimlist=\toks19
+
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geomet
+ry.cfg))
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blind
+text.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\xsp
+ace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count193
+\c@Blindtext=\count194
+\c@blind@countparstart=\count195
+\blind@countxx=\count196
+\blindtext@numBlindtext=\count197
+\blind@countyy=\count198
+\c@blindlist=\count199
+\c@blindlistlevel=\count266
+\c@blindlist@level=\count267
+\blind@listitem=\count268
+\c@blind@listcount=\count269
+\c@blind@levelcount=\count270
+\blind@mathformula=\count271
+\blind@Mathformula=\count272
+\c@blind@randomcount=\count273
+\c@blind@randommax=\count274
+\c@blind@pangramcount=\count275
+\c@blind@pangrammax=\count276
+)
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\mul
+ticol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count277
+\mult@box=\box47
+\multicol@leftmargin=\dimen148
+\c@unbalance=\count278
+\c@collectmore=\count279
+\doublecol@number=\count280
+\multicoltolerance=\count281
+\multicolpretolerance=\count282
+\full@width=\dimen149
+\page@free=\dimen150
+\premulticols=\dimen151
+\postmulticols=\dimen152
+\multicolsep=\skip49
+\multicolbaselineskip=\skip50
+\partial@page=\box48
+\last@line=\box49
+\maxbalancingoverflow=\dimen153
+\mult@rightbox=\box50
+\mult@grightbox=\box51
+\mult@gfirstbox=\box52
+\mult@firstbox=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\c@minrows=\count283
+\c@columnbadness=\count284
+\c@finalcolumnbadness=\count285
+\last@try=\dimen154
+\multicolovershoot=\dimen155
+\multicolundershoot=\dimen156
+\mult@nat@firstbox=\box91
+\colbreak@box=\box92
+\mc@col@check@num=\count286
+)
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphi
+cx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphi
+cs.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.s
+ty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\gr
+aphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pd
+ftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen157
+\Gin@req@width=\dimen158
+)
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath
+.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext
+.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.
+sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen159
+))
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.
+sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen160
+)
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.
+sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count287
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count288
+\leftroot@=\count289
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count290
+\DOTSCASE@=\count291
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box93
+\strutbox@=\box94
+\big@size=\dimen161
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count292
+\c@MaxMatrixCols=\count293
+\dotsspace@=\muskip16
+\c@parentequation=\count294
+\dspbrk@lvl=\count295
+\tag@help=\toks21
+\row@=\count296
+\column@=\count297
+\maxfields@=\count298
+\andhelp@=\toks22
+\eqnshift@=\dimen162
+\alignsep@=\dimen163
+\tagshift@=\dimen164
+\tagwidth@=\dimen165
+\totwidth@=\dimen166
+\lineht@=\dimen167
+\@envbody=\toks23
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/latex/listings\listin
+gs.sty
+\lst@mode=\count299
+\lst@gtempboxa=\box95
+\lst@token=\toks25
+\lst@length=\count300
+\lst@currlwidth=\dimen168
+\lst@column=\count301
+\lst@pos=\count302
+\lst@lostspace=\dimen169
+\lst@width=\dimen170
+\lst@newlines=\count303
+\lst@lineno=\count304
+\lst@maxwidth=\dimen171
+
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmis
+c.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count305
+\lst@skipnumbers=\count306
+\lst@framebox=\box96
+)
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/latex/listings\listin
+gs.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.s
+ty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\co
+lor.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3bac
+kend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count307
+\l__pdf_internal_box=\box97
+) (Dania.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+\openout1 = `Dania.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Info: Redefining \. on input line 39.
+LaTeX Info: Redefining \% on input line 39.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(42.67912pt, 528.93675pt, 42.67912pt)
+* v-part:(T,H,B)=(42.67912pt, 709.61174pt, 42.67912pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=528.93675pt
+* \textheight=709.61174pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-66.59087pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\sup
+p-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count308
+\scratchdimen=\dimen172
+\scratchbox=\box98
+\nofMPsegments=\count309
+\nofMParguments=\count310
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count311
+\MPscratchDim=\dimen173
+\MPnumerator=\count312
+\makeMPintoPDFobject=\count313
+\everyMPtoPDFconversion=\toks27
+)
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\ep
+stopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstop
+df-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\c@lstlisting=\count314
+ [1
+
+{C:/Users/Gustavo Angel/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (Dania.
+toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@toc=\write3
+\openout3 = `Dania.toc'.
+
+ [2] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+
+ []
+
+<../Graficas/1.png, id=24, 401.5pt x 401.5pt>
+File: ../Graficas/1.png Graphic file (type png)
+<use ../Graficas/1.png>
+Package pdftex.def Info: ../Graficas/1.png  used on input line 110.
+(pdftex.def)             Requested size: 160.59715pt x 160.59715pt.
+<../Graficas/1_1.png, id=26, 401.5pt x 401.5pt>
+File: ../Graficas/1_1.png Graphic file (type png)
+<use ../Graficas/1_1.png>
+Package pdftex.def Info: ../Graficas/1_1.png  used on input line 113.
+(pdftex.def)             Requested size: 160.59715pt x 160.59715pt.
+<../Graficas/2.png, id=27, 401.5pt x 401.5pt>
+File: ../Graficas/2.png Graphic file (type png)
+<use ../Graficas/2.png>
+Package pdftex.def Info: ../Graficas/2.png  used on input line 117.
+(pdftex.def)             Requested size: 160.59715pt x 160.59715pt.
+<../Graficas/2_1.png, id=28, 401.5pt x 401.5pt>
+File: ../Graficas/2_1.png Graphic file (type png)
+<use ../Graficas/2_1.png>
+Package pdftex.def Info: ../Graficas/2_1.png  used on input line 120.
+(pdftex.def)             Requested size: 160.59715pt x 160.59715pt.
+<../Graficas/3.png, id=29, 401.5pt x 401.5pt>
+File: ../Graficas/3.png Graphic file (type png)
+<use ../Graficas/3.png>
+Package pdftex.def Info: ../Graficas/3.png  used on input line 124.
+(pdftex.def)             Requested size: 160.59715pt x 160.59715pt.
+[4 <../Graficas/1.png> <../Graficas/1_1.png> <../Graficas/2.png> <../Graficas/2
+_1.png>]
+<../Graficas/3_1.png, id=37, 401.5pt x 401.5pt>
+File: ../Graficas/3_1.png Graphic file (type png)
+<use ../Graficas/3_1.png>
+Package pdftex.def Info: ../Graficas/3_1.png  used on input line 127.
+(pdftex.def)             Requested size: 160.59715pt x 160.59715pt.
+<../Graficas/4.png, id=38, 401.5pt x 401.5pt>
+File: ../Graficas/4.png Graphic file (type png)
+<use ../Graficas/4.png>
+Package pdftex.def Info: ../Graficas/4.png  used on input line 131.
+(pdftex.def)             Requested size: 160.59715pt x 160.59715pt.
+<../Graficas/4_1.png, id=39, 401.5pt x 401.5pt>
+File: ../Graficas/4_1.png Graphic file (type png)
+<use ../Graficas/4_1.png>
+Package pdftex.def Info: ../Graficas/4_1.png  used on input line 134.
+(pdftex.def)             Requested size: 160.59715pt x 160.59715pt.
+<../Graficas/5.png, id=40, 401.5pt x 401.5pt>
+File: ../Graficas/5.png Graphic file (type png)
+<use ../Graficas/5.png>
+Package pdftex.def Info: ../Graficas/5.png  used on input line 138.
+(pdftex.def)             Requested size: 160.59715pt x 160.59715pt.
+<../Graficas/5_1.png, id=41, 401.5pt x 401.5pt>
+File: ../Graficas/5_1.png Graphic file (type png)
+<use ../Graficas/5_1.png>
+Package pdftex.def Info: ../Graficas/5_1.png  used on input line 141.
+(pdftex.def)             Requested size: 160.59715pt x 160.59715pt.
+<../Graficas/6.png, id=42, 401.5pt x 401.5pt>
+File: ../Graficas/6.png Graphic file (type png)
+<use ../Graficas/6.png>
+Package pdftex.def Info: ../Graficas/6.png  used on input line 145.
+(pdftex.def)             Requested size: 160.59715pt x 160.59715pt.
+<../Graficas/6_1.png, id=43, 401.5pt x 401.5pt>
+File: ../Graficas/6_1.png Graphic file (type png)
+<use ../Graficas/6_1.png>
+Package pdftex.def Info: ../Graficas/6_1.png  used on input line 148.
+(pdftex.def)             Requested size: 160.59715pt x 160.59715pt.
+<../Graficas/7.png, id=44, 401.5pt x 401.5pt>
+File: ../Graficas/7.png Graphic file (type png)
+<use ../Graficas/7.png>
+Package pdftex.def Info: ../Graficas/7.png  used on input line 152.
+(pdftex.def)             Requested size: 160.59715pt x 160.59715pt.
+ [5 <../Graficas/3.png> <../Graficas/3_1.png> <../Graficas/4.png> <../Graficas/
+4_1.png> <../Graficas/5.png> <../Graficas/5_1.png> <../Graficas/6.png> <../Graf
+icas/6_1.png>]
+<../Graficas/7_1.png, id=56, 401.5pt x 401.5pt>
+File: ../Graficas/7_1.png Graphic file (type png)
+<use ../Graficas/7_1.png>
+Package pdftex.def Info: ../Graficas/7_1.png  used on input line 155.
+(pdftex.def)             Requested size: 160.59715pt x 160.59715pt.
+<../Graficas/8.png, id=57, 401.5pt x 401.5pt>
+File: ../Graficas/8.png Graphic file (type png)
+<use ../Graficas/8.png>
+Package pdftex.def Info: ../Graficas/8.png  used on input line 159.
+(pdftex.def)             Requested size: 160.59715pt x 160.59715pt.
+<../Graficas/8_1.png, id=58, 401.5pt x 401.5pt>
+File: ../Graficas/8_1.png Graphic file (type png)
+<use ../Graficas/8_1.png>
+Package pdftex.def Info: ../Graficas/8_1.png  used on input line 162.
+(pdftex.def)             Requested size: 160.59715pt x 160.59715pt.
+<../Graficas/9.png, id=59, 401.5pt x 401.5pt>
+File: ../Graficas/9.png Graphic file (type png)
+<use ../Graficas/9.png>
+Package pdftex.def Info: ../Graficas/9.png  used on input line 166.
+(pdftex.def)             Requested size: 160.59715pt x 160.59715pt.
+<../Graficas/9_1.png, id=60, 401.5pt x 401.5pt>
+File: ../Graficas/9_1.png Graphic file (type png)
+<use ../Graficas/9_1.png>
+Package pdftex.def Info: ../Graficas/9_1.png  used on input line 169.
+(pdftex.def)             Requested size: 160.59715pt x 160.59715pt.
+<../Graficas/10.png, id=61, 401.5pt x 401.5pt>
+File: ../Graficas/10.png Graphic file (type png)
+<use ../Graficas/10.png>
+Package pdftex.def Info: ../Graficas/10.png  used on input line 173.
+(pdftex.def)             Requested size: 160.59715pt x 160.59715pt.
+File: ../Graficas/1_1.png Graphic file (type png)
+<use ../Graficas/1_1.png>
+Package pdftex.def Info: ../Graficas/1_1.png  used on input line 176.
+(pdftex.def)             Requested size: 160.59715pt x 160.59715pt.
+ [6 <../Graficas/7.png> <../Graficas/7_1.png> <../Graficas/8.png> <../Graficas/
+8_1.png> <../Graficas/9.png> <../Graficas/9_1.png> <../Graficas/10.png>]
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlan
+g1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(C:\Users\Gustavo Angel\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmis
+c.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+) (../Euler.c) (../RK.c [7]) (../funciones.h [8])
+Underfull \hbox (badness 10000) in paragraph at lines 191--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--194
+
+ []
+
+[9] (Dania.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+) ) 
+Here is how much of TeX's memory you used:
+ 6237 strings out of 479321
+ 88221 string characters out of 2852729
+ 803794 words of memory out of 3000000
+ 23608 multiletter control sequences out of 15000+600000
+ 409756 words of font info for 50 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 68i,16n,74p,573b,1738s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Users/Gustavo Angel/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmbx10.pfb><C:/Users/Gustavo Angel/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Gustavo Angel/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Gustavo Angel/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users
+/Gustavo Angel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmm
+i10.pfb><C:/Users/Gustavo Angel/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmmi7.pfb><C:/Users/Gustavo Angel/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Gustavo Angel/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Gustavo Angel
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Use
+rs/Gustavo Angel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mr7.pfb><C:/Users/Gustavo Angel/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmr9.pfb><C:/Users/Gustavo Angel/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Gustavo Angel/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Gustavo Angel
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on Dania.pdf (9 pages, 346863 bytes).
+PDF statistics:
+ 127 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+
