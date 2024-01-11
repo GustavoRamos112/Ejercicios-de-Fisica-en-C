@@ -28,6 +28,7 @@ int main (void) {
 
 double Funcion(double x) {
     double y, L, mu, d, rho, alpha, g, R_bolsa;
+    
     L = 91.44;
     mu = 0.01;
     d = 0.1;
@@ -35,6 +36,7 @@ double Funcion(double x) {
     alpha = 64*L*mu/(d*d*rho);
     g = 981;
     R_bolsa = 10;
+
     y = (1/(-alpha+sqrt(alpha*alpha+8*g*(x+L))));
     return y;
 }
